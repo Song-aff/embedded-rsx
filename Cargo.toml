@@ -1,0 +1,13 @@
+[package]
+name = "embedded-rsx"
+version = "0.1.0"
+edition = "2021"
+description = "A minimal example library for embedded systems with Rust"
+license = "MIT"
+repository = "https://github.com/Song-aff/embedded-rsx"
+readme = "README.md"
+keywords = ["embedded", "rust", "system", "rsx"]
+categories = ["embedded-systems", "no-std"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
